@@ -1,0 +1,14 @@
+enabled:
+  block: -5
+  dblog: 0
+  entity: 0
+  field: 0
+  file: 0
+  filter: 0
+  menu_link: 0
+  node: 0
+  system: 0
+  text: 0
+  update: 0
+  user: 0
+  minimal: 1000

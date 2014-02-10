@@ -1,0 +1,21 @@
+id: stark_admin
+uuid: 75eba280-81f1-446e-8502-2e453b94142d
+weight: 1
+status: true
+langcode: en
+theme: stark
+region: sidebar_first
+plugin: 'system_menu_block:admin'
+settings:
+  label: Administration
+  module: system
+  label_display: visible
+  cache: -1
+visibility:
+  path:
+    visibility: 0
+    pages: ''
+  role:
+    roles: {  }
+  node_type:
+    types: {  }

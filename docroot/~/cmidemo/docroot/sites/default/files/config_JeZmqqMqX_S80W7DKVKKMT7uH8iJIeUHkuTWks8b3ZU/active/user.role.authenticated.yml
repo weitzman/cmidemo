@@ -1,0 +1,9 @@
+id: authenticated
+uuid: 515250c9-46bd-4611-ba06-6b8cfd63f1a7
+label: 'Authenticated user'
+weight: 1
+permissions:
+  - 'use text format plain_text'
+  - 'access content'
+status: true
+langcode: en
