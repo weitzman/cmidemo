@@ -1,6 +1,6 @@
 uuid: 6f10c1b8-d50c-4fc5-a000-aad617429773
-name: 'CMI Demo'
-mail: admin@example.com
+name: 'CMI Demo in Acquia Cloud'
+mail: admin+1@example.com
 slogan: ''
 page:
   403: ''
