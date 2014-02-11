@@ -673,3 +673,4 @@ $databases['default']['default'] = array (
 $settings['install_profile'] = 'minimal';
 $config_directories['active'] = 'sites/default/files/config_JeZmqqMqX_S80W7DKVKKMT7uH8iJIeUHkuTWks8b3ZU/active';
 $config_directories['staging'] = 'sites/default/files/config_JeZmqqMqX_S80W7DKVKKMT7uH8iJIeUHkuTWks8b3ZU/staging';
+$config_directories['vcs'] = '../config_vcs';
